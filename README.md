@@ -1,9 +1,9 @@
-Hello, I'm Carlos! 👋
+## Hello, I'm Carlos! 👋
 
-I'm a Systems Analysis and Development student.
+###### I'm a Systems Analysis and Development student.
 
-📚 Some languages and tools I'm studying and improving:
-• Java
-• Kotlin
-• Android Studio
-• Git
+📚 Some languages and tools I'm studying and improving: <br />
+• Java <br />
+• Kotlin <br />
+• Android Studio <br />
+• Git <br />
