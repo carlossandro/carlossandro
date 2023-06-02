@@ -4,5 +4,5 @@
 
 📚 Some languages and tools I'm studying and improving: <br />
 • Python <br />
-• Django
+• Django <br />
 • Git <br />
