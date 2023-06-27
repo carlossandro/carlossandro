@@ -1,8 +1,10 @@
 ## Hello, I'm Carlos Sandro! 👋
 
-###### I'm a Systems Analysis and Development student.
+###### I'm an Android Development student.
 
 📚 Some languages and tools I'm studying and improving: <br />
-• Python <br />
-• Django <br />
+• Kotlin <br />
+• Android Studio <br />
+• Java <br />
+• SQL <br />
 • Git <br />
