@@ -1,6 +1,6 @@
 ## Hello, I'm Carlos Sandro! 👋
 
-###### I'm an IT student.
+###### I'm a Software Quality Assurancee and Testing student.
 
 📚 Some languages and tools I'm studying and improving: <br />
 • Python <br />
